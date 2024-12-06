@@ -98,7 +98,7 @@ function App() {
         <div className="flex flex-col items-center mb-8">
           <div className="flex items-center mb-4">
             <Zap className="h-8 w-8 text-blue-600 mr-2" />
-            <h1 className="text-3xl font-bold text-gray-900">Bolt Project Manager</h1>
+            <h1 className="text-3xl font-bold text-gray-900">AGA Projects</h1>
           </div>
           <div className="w-full flex justify-end">
             <ProjectActions
